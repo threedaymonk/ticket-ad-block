@@ -1,7 +1,7 @@
 # Ad-block for PDF tickets
 
 As a matter of principle, we shouldn't pay with our toner or ink for someone
-else to put ads on tickeets we've paid for.
+else to put ads on tickets we've paid for.
 
 ## Prerequisites
 
